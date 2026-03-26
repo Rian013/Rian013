@@ -76,5 +76,5 @@ Designed and implemented a simulation-based motion planning system using the A* 
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rian_Fernandes-blue?logo=linkedin)](https://linkedin.com/in/rianfernandes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rian_Fernandes-blue?logo=linkedin)](https://www.linkedin.com/in/rian-archie-fernandes-924729265/)
 [![Email](https://img.shields.io/badge/Email-fernandes.ri@northeastern.edu-red?logo=gmail)](mailto:fernandes.ri@northeastern.edu)
