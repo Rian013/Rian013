@@ -1,14 +1,14 @@
 # Hey, I'm Rian Fernandes 👋
 
-I'm a Robotics Engineering grad student at Northeastern University in Boston. I love building things that actually work in the real world, not just in simulation. My focus is on sensor fusion, SLAM, motion planning, and computer vision.
+I'm a Robotics Engineering grad student at Northeastern University in Boston, graduating in April 2026. I love building things that actually work in the real world, not just in simulation. My focus is on sensor fusion, SLAM, motion planning, and computer vision.
 
 ---
 
 ## A bit about me
 
-- Studying MS Robotics Engineering at **Northeastern University, Boston**
+- Finishing my MS in Robotics Engineering at **Northeastern University, Boston** in April 2026
 - Right now I'm building a **GPS/IMU sensor fusion system using EKF in ROS2** with real driving data collected around Boston
-- I'm actively looking for **Robotics Software / Computer Vision internships**
+- Actively looking for **full time roles in Robotics Software, Embedded Systems, Computer Vision, and Electrical Engineering**
 - I learn best by building things from scratch and understanding every line of code
 - Ask me anything about **ROS2, sensor fusion, SLAM, or computer vision**
 
@@ -27,6 +27,12 @@ I'm a Robotics Engineering grad student at Northeastern University in Boston. I 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange)
+
+**Embedded & Hardware**
+
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-embedded-red)
+![PLC](https://img.shields.io/badge/Allen_Bradley_PLC-ladder_logic-orange)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-debugging-blue)
 
 **Computer Vision**
 
@@ -76,5 +82,5 @@ Designed and implemented a simulation-based motion planning system using the A* 
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rian_Fernandes-blue?logo=linkedin)](https://www.linkedin.com/in/rian-archie-fernandes-924729265/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rian_Fernandes-blue?logo=linkedin)](https://linkedin.com/in/rian-archie-fernandes-924729265/)
 [![Email](https://img.shields.io/badge/Email-fernandes.ri@northeastern.edu-red?logo=gmail)](mailto:fernandes.ri@northeastern.edu)
