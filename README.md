@@ -1,4 +1,4 @@
-# Hey, I'm Rian Fernandes 👋
+# Hey, I'm Rian Archie Fernandes 👋
 
 I'm a Robotics Engineering grad student at Northeastern University in Boston, graduating in April 2026. I love building things that actually work in the real world, not just in simulation. My focus is on sensor fusion, SLAM, motion planning, and computer vision.
 
