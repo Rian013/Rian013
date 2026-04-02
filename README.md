@@ -72,14 +72,6 @@ Designed and implemented a simulation-based motion planning system using the A* 
 
 ---
 
-## GitHub Stats
-
-![Rian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rian013&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian013&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rian_Fernandes-blue?logo=linkedin)](https://linkedin.com/in/rian-archie-fernandes-924729265/)
