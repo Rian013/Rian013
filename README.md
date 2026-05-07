@@ -7,10 +7,11 @@ I'm a Robotics Engineering grad student at Northeastern University in Boston, gr
 ## A bit about me
 
 - Finishing my MS in Robotics Engineering at **Northeastern University, Boston** in April 2026
-- Right now I'm building a **GPS/IMU sensor fusion system using EKF in ROS2** with real driving data collected around Boston
+- Recently built a **monocular depth estimation pipeline** comparing MiDaS and Depth Anything V2 with 3D point cloud visualization using Open3D
+- Also built a **GPS/IMU sensor fusion system using EKF in ROS2** with real driving data collected around Boston
 - Actively looking for **full time roles in Robotics Software, Embedded Systems, Computer Vision, and Electrical Engineering**
 - I learn best by building things from scratch and understanding every line of code
-- Ask me anything about **ROS2, sensor fusion, SLAM, or computer vision**
+- Ask me anything about **ROS2, sensor fusion, SLAM, depth estimation, or computer vision**
 
 ---
 
@@ -28,24 +29,33 @@ I'm a Robotics Engineering grad student at Northeastern University in Boston, gr
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange)
 
-**Embedded & Hardware**
+**Computer Vision and Deep Learning**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=opencv)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-purple)
+![Open3D](https://img.shields.io/badge/Open3D-3D_Vision-blue)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)
+
+**Embedded and Hardware**
 
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-embedded-red)
 ![PLC](https://img.shields.io/badge/Allen_Bradley_PLC-ladder_logic-orange)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-debugging-blue)
 
-**Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=opencv)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-purple)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-
 ---
 
 ## Projects I've built
 
+### [Monocular Depth Estimation: MiDaS vs Depth Anything V2](https://github.com/Rian013/depth-estimation-midas-vs-dav2)
+Implemented and compared two state-of-the-art depth estimation models on real-world indoor and outdoor scenes. Evaluated quantitatively on 50 samples from the NYU Depth V2 benchmark using AbsRel and RMSE. Key finding: Depth Anything V2 produces 60x sharper depth maps by Laplacian variance despite MiDaS scoring better on the indoor benchmark, demonstrating the gap between metrics and perceptual quality. Extended the pipeline to generate colored 3D point clouds using Open3D. Runs fully on CPU.
+
+`PyTorch` `Hugging Face` `Open3D` `OpenCV` `MiDaS` `Depth Anything V2` `NYU Depth V2` `Python`
+
+---
+
 ### [EKF GPS/IMU Fusion](https://github.com/Rian013/ekf-gps-imu-fusion)
-I built an Extended Kalman Filter from scratch to fuse GPS and IMU data in ROS2. I collected real sensor data by driving around Boston with a VN-100 IMU and BU-353S4 GPS mounted in a car. The filter handles magnetometer calibration, IMU drift correction, and publishes filtered odometry in real time.
+Built an Extended Kalman Filter from scratch to fuse GPS and IMU data in ROS2. Collected real sensor data by driving around Boston with a VN-100 IMU and BU-353S4 GPS mounted in a car. The filter handles magnetometer calibration, IMU drift correction, and publishes filtered odometry in real time.
 
 `ROS2` `Python` `NumPy` `Sensor Fusion` `EKF` `pyproj`
 
@@ -76,3 +86,4 @@ Designed and implemented a simulation-based motion planning system using the A* 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rian_Fernandes-blue?logo=linkedin)](https://linkedin.com/in/rian-archie-fernandes-924729265/)
 [![Email](https://img.shields.io/badge/Email-fernandes.ri@northeastern.edu-red?logo=gmail)](mailto:fernandes.ri@northeastern.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-Rian013-black?logo=github)](https://github.com/Rian013)
